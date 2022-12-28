@@ -12,6 +12,7 @@ Damisparks Opinionated Vite Starter Template.
 - Typescript, of course
 - 🔥 Use the [new `<script setup>` syntax](https://github.com/vuejs/rfcs/pull/227)
 - Vue router
+- 🎨 Packed with tailwindcss
 
 ## TODO
 - [ ] add filebase routing
@@ -19,7 +20,6 @@ Damisparks Opinionated Vite Starter Template.
 - [ ] state management using pinia
 - [ ] layout system
 - [ ] use icon from unplugin-icons
-- [ ] Add tailwindcss
 - [ ] Add tailwind forms
 - [ ] Add tailwind typography
 - [ ] Add tailwind aspect ratio
