@@ -1,3 +1,10 @@
 {
-  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+  "recommendations": [
+    // Language support for Vue 3
+    "Vue.volar",
+    // Vue Plugin for TypeScript server
+    "Vue.vscode-typescript-vue-plugin",
+    // Tailwind CSS IntelliSense ==> (Intelligent Tailwind CSS tooling for VS Code)
+    "bradlc.vscode-tailwindcss"
+  ]
 }
