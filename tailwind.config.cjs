@@ -7,5 +7,8 @@ module.exports = {
       //  extend theme here 🎨
     },
   },
-  plugins: [],
+  plugins: [
+    // Tailwind forms plugin
+    require('@tailwindcss/forms'),
+  ],
 }
